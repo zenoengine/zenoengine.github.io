@@ -1,11 +1,15 @@
-#CentOS minimal 설치 후 Network 설정
+---
+layout: post
+title: CentOS minimal 설치 후 Network 설정
+---
 
 CentOS minimal 설치 직후면 network 설정을 해줘야합니다.
 
 
-##방법 1 cmmand line 
 
-```
+### 방법 1 cmmand line 
+
+```js
 vi /etc/sysconfig/network-scripts/ifcfg-enp0s3
 ```
 
@@ -19,7 +23,7 @@ ONBOOT = yes로
 service network restart
 ```
 
-##방법 2 TUI
+### 방법 2 TUI
 
 ```
 nmtui
