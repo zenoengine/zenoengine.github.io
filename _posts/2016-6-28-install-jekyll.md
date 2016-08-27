@@ -45,7 +45,7 @@ cmd 창에서 편하게 사용하실 수 있습니다.
 
 DevKit을 압축 폴더를 C:\RubyDK 로 가정하겠습니다.
 
-```
+```tcl
 //Ruby - DeveloperKit Binding
 cd C:\RubyDK
 ruby dk.rb init
@@ -58,9 +58,11 @@ Documentation에서 gem이 뭔가했는데 Ruby의 패키지 매니져더군요 
 
 jekyll을 설치해 줍니다.
 
-```
+```tcl
 gem install jekyll
 gem install rouge // code blocks 기능 사용
+gem install jekyll-sitemap
+gem install jekyll-feed
 ```
 
 #### Python
@@ -70,7 +72,7 @@ gem install rouge // code blocks 기능 사용
 cmd에서 편리하게 사용하기 위해 환경 변수를 추가합니다.
 
 
-```
+```tcl
 setx path "%PATH%;[Python 설치 경로]"
 setx path "%PATH%;[Python 설치 경로]\Scripts"
 
@@ -81,7 +83,8 @@ setx path "%PATH%;C:\Users\HongAhn\AppData\Local\Programs\Python\Python35-32\Scr
 
 환경 변수 설정을 한후 새로운 cmd창을 띄워서 잘 동작하는지 테스트 해봅니다.
 
-```
+
+```tcl
 python
 pip
 pip install Pygments // syntax highligthing 용
@@ -91,10 +94,11 @@ pip install Pygments // syntax highligthing 용
 
 내 블로그 프로젝트를 컴퓨터에 clone 합니다.
 
-```
-cd c:\설치할 경로
+```tcl
+cd <"c:\ 설치할 경로">
 git clone [jekyll fork clone path]
 jekyll serve
+//여기서 플러그인 오류가 날 수도있습니다. gem install <plugin name>으로 설치 후 다시 시도를 해보세요.
 ``` 
 
 이제 웹브라우져에서 127.0.0.1:4000 으로 접속하면 내 블로그가 뜹니다!!
