@@ -1,0 +1,23 @@
+---
+layout: post
+title: LAMP 설치하기
+---
+
+환경 : ubuntu 14.04
+
+```bash
+$ sudo apt-get install lamp-server^
+```
+
+설치 확인
+
+``` bash
+$ apache2 --version
+$ php --version
+$ mysql --version
+```
+
+```bash
+$ sudo service apache2 start
+$ sudo service mysql start
+```
