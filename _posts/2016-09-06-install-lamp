@@ -17,7 +17,15 @@ $ php --version
 $ mysql --version
 ```
 
+서비스 시작
+
 ```bash
 $ sudo service apache2 start
 $ sudo service mysql start
+```
+
+mysql 접속
+
+```bash
+$ mysql -u root -p
 ```
