@@ -2,6 +2,8 @@
 layout: post
 title: MYSQL 최신 버전 설치 / 업그레이드 하는 방법
 description: ubuntu에서 mysql의 구버전을 신버전으로 업그레이드하면서 겪은 일을 정리했습니다. (5.5 -> 5.7)
+share: true
+comments: true
 tags :
   - mysql
   - ubuntu

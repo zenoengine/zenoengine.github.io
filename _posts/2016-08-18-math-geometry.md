@@ -2,7 +2,9 @@
 layout: post
 title:   기하학(幾何學)의 뜻
 description: 기하학이란 단어의 유래를 찾아서...
-tags :
+share: true
+comments: true
+tags:
   - math
 ---
 

@@ -2,6 +2,8 @@
 layout: post
 title: VirtualBox Linux SSH 사용
 description: Virtualbox CentOS에서 ssh 를 사용하는법을 알아봅니다.
+share: true
+comments: true
 tags:
  - virtualbox
  - centos

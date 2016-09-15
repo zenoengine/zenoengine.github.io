@@ -2,6 +2,8 @@
 layout: post
 title: SVN-Git GitLab 마이그레이션
 description: SVN 저장소에서 GitLab 저장소로 마이그레이션하는 방법입니다.
+share: true
+comments: true
 tags :
   - git
   - gitlab
