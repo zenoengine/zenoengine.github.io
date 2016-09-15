@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Windows에서 Jekyll 설치하기
+description: Windows에서 Jekyll을 설치 하는 방법입니다.
+tags:
+ - jekyll
+ - windows
 ---
 
 

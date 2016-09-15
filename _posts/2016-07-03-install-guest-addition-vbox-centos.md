@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Virtual Box Centos7 에서 Guest Addition 설치하기
+description: VirtualBox에서 Guest Addition을 설치하는 법을 정리했습니다.
+tags :
+  - virtualbox
+  - centos
+  - linux
 ---
 
 

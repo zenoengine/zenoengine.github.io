@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Visual studio Teamservice 활용하기 (1) - Agile Tool "BackLog"
+description: Agile Tools 중 하나인 BackLog를 사용하는 방법에 대해 정리했습니다.
+tags :
+  - microsoft
+  - teamservice
+  - agile
 ---
 <style>
   .mbtablestyle {

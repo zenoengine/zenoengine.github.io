@@ -1,6 +1,11 @@
 ---
 layout: post
-title: VirtualBox CentOS7 SSH 사용 
+title: VirtualBox Linux SSH 사용
+description: Virtualbox CentOS에서 ssh 를 사용하는법을 알아봅니다.
+tags:
+ - virtualbox
+ - centos
+ - linux
 ---
 <style>
 .mbtablestyle {

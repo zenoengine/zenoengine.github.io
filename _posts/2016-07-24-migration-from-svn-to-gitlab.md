@@ -1,6 +1,10 @@
 ---
 layout: post
-title: SVN-Git 마이그레이션
+title: SVN-Git GitLab 마이그레이션
+description: SVN 저장소에서 GitLab 저장소로 마이그레이션하는 방법입니다.
+tags :
+  - git
+  - gitlab
 ---
 
 최근 개인 저장소로 유용하게 쓰고있던 네이버 svn 프로젝트가 폐쇠된다는 소식을 듣고 git 로 마이그레이션을 결정 했습니다.

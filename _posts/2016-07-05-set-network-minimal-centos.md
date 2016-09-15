@@ -1,10 +1,13 @@
 ---
 layout: post
 title: CentOS minimal 설치 후 Network 설정
+description: CentOS 최소 설치를 하면 인터넷이 되지 않습니다. 인터넷을 사용하기위해 Network 설정하는 법을 정리했습니다.
+tags :
+  - centos
+  - linux
 ---
 
-CentOS minimal 설치 직후면 network 설정을 해줘야합니다.
-
+CentOS minimal 설치 직후 network 설정을 해줘야 인터넷을 통해 패키지 설치나 다운로드가 가능해집니다.
 
 
 ### 방법 1 cmmand line 
