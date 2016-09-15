@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Zeno
+name: 제노 엔진
 
 # Short bio or description (displayed in the header)
 description: Game and Web Programmer 
@@ -23,18 +23,24 @@ footer-links:
   flickr:
   github: barryclark/jekyll-now
   instagram:
-  linkedin: https://www.linkedin.com/nhome/
+  linkedin: https://www.linkedin.com/in/jin-hyung-ahn-1b63abab?trk=nav_responsive_tab_profile_pic
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  stackoverflow: 'users/4380509/zenoahn'
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
+
+social:
+  github: zenoengine
+  stackoverflow: users/4380509/zenoahn
+  linkedin: jin-hyung-ahn-1b63abab?trk=nav_responsive_tab_profile_pic
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:
+disqus: zenoahn
+comments: true
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-83964873-1

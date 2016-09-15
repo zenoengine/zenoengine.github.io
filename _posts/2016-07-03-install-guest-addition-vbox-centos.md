@@ -3,6 +3,7 @@ layout: post
 title: Virtual Box Centos7 에서 Guest Addition 설치하기
 ---
 
+
 ※이 방법은 GUI 모드에서만 사용 가능합니다. command lines 모드에서는 [ssh로 접속하기](https://zenoengine.github.io/use-ssh-vbox-centos/)를 참고하셔서 보다 편한 환경을 구축할 수 있습니다.
 
 
