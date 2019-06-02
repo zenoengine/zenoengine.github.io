@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>zenoengine's blog</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2019-06-02T16:54:56+09:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>zenoengine</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>블로그 시작</title>
+   <link href="http://localhost:4000/staring-blog-kr/"/>
+   <updated>2019-06-02T00:00:00+09:00</updated>
+   <id>http://localhost:4000/staring-blog-kr</id>
+   <content type="html">&lt;p&gt;Jekyll 블로그 새로 시작 :)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Start blogging</title>
+   <link href="http://localhost:4000/staring-blog-en/"/>
+   <updated>2019-06-02T00:00:00+09:00</updated>
+   <id>http://localhost:4000/staring-blog-en</id>
+   <content type="html">&lt;p&gt;We’re starting a new blog at Github Pages.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
