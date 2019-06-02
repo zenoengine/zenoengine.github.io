@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://newgamedev.github.io/sitemap.xml
+Sitemap: https://zenoengine.github.io/sitemap.xml
